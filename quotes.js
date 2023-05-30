@@ -221,4 +221,4 @@ author: "Winston Churchill"},
 {quote: "We must become the change we want to see.",
 author: "Mahatma Gandhi"}
 
-]
+];
